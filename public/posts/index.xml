@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>lily&#39;s web.site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on lily&#39;s web.site</description>
+    <title>Posts on lily&#39;s web.site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on lily&#39;s web.site</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Dec 2025 14:43:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Designing a Gilbert Cell Based Automatic Gain Controller</title>
       <link>http://localhost:1313/posts/gilbert_cell_agc/</link>
