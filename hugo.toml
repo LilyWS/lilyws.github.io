@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://lilysweb.site/"
 languageCode = "en-us"
 title = "lily's web.site"
 theme = "PaperMod"
@@ -6,3 +6,5 @@ theme = "PaperMod"
 favicon = "/favicon.ico"
 favicon16x16 = "/favicon-16x16.png"
 favicon32x32 = "/favicon-32x32.png"
+[params.meta]
+favicon = true

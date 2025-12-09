@@ -15,7 +15,7 @@
       <guid>http://localhost:1313/posts/gilbert_cell_agc/</guid>
       <description>&lt;h2 id=&#34;why-make-this&#34;&gt;Why Make This?&lt;/h2&gt;
 &lt;p&gt;A couple of months back I decided to try making an analog function generator. My requirements were pretty loose, I just wanted to see if I could generate some square, triangle, and sine waves. Additionally, I wanted to be able to adjust the frequency and amplitude of the waves generated. This actually turned out to be pretty easy, only taking three op-amps.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Three Op Amp Function Generator&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/FunctionGenerator.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;Three Op Amp Function Generator&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/GCAGCW/FunctionGenerator.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
