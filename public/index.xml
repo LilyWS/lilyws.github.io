@@ -17,5 +17,25 @@
 &lt;p&gt;A couple of months back I decided to try making an analog function generator. My requirements were pretty loose, I just wanted to see if I could generate some square, triangle, and sine waves. Additionally, I wanted to be able to adjust the frequency and amplitude of the waves generated. This actually turned out to be pretty easy, only taking three op-amps.&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Three Op Amp Function Generator&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/GCAGCW/FunctionGenerator.png&#34;&gt;&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;My name&amp;rsquo;s Lily, as you might have guessed by now. I&amp;rsquo;m pursuing my undergrad in electrical engineering at UNCC, and I like doing stuff with electronics in my free time. Right now I&amp;rsquo;m most interested in analog IC design.&lt;/p&gt;
+&lt;p&gt;If you have questions or feedback, or just wanted to connect, feel free to reach out at 
+&lt;span data-email=&#34;bHdzLmF0Lmx3c0BnbWFpbC5jb20=&#34; class=&#34;email-obfuscated&#34;&gt;&lt;/span&gt;
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+    const spans = document.querySelectorAll(&#39;.email-obfuscated&#39;);
+    spans.forEach(span =&gt; {
+      const encoded = span.getAttribute(&#39;data-email&#39;);
+      const decoded = atob(encoded); 
+      span.innerHTML = &#39;&lt;a href=&#34;mailto:&#39; + decoded + &#39;&#34;&gt;&#39; + decoded + &#39;&lt;/a&gt;&#39;;
+      span.classList.remove(&#39;email-obfuscated&#39;); 
+    });
+  });
+&lt;/script&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -2,9 +2,17 @@ baseURL = "https://lilysweb.site/"
 languageCode = "en-us"
 title = "lily's web.site"
 theme = "PaperMod"
+[params.homeInfoParams]
+    Title = "Hello!"
+    Content = "My name's Lily. This is my site where I write about whatever I've been up to lately. Which is mostly circuits."
 [params.assets]
 favicon = "/favicon.ico"
 favicon16x16 = "/favicon-16x16.png"
 favicon32x32 = "/favicon-32x32.png"
 [params.meta]
 favicon = true
+[[menu.main]]
+identifier = "about"
+name = "about"
+url = "/about/"
+weight = 10
