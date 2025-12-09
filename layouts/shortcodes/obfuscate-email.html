@@ -1,0 +1,13 @@
+<!-- layouts/shortcodes/obfuscate-email.html -->
+<span data-email="{{ .Inner | base64Encode }}" class="email-obfuscated"></span>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const spans = document.querySelectorAll('.email-obfuscated');
+    spans.forEach(span => {
+      const encoded = span.getAttribute('data-email');
+      const decoded = atob(encoded); // Decode base64
+      span.innerHTML = '<a href="mailto:' + decoded + '">' + decoded + '</a>';
+      span.classList.remove('email-obfuscated'); // Clean up
+    });
+  });
+</script>
