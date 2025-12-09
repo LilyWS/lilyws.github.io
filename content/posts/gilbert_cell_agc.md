@@ -172,7 +172,7 @@ I believe the cause for distortion is the nonlinearity which comes with using th
 
 **The Good:** 
 - It works!
-  - I'm pretty pleased this thing works at all, even if it's going to need quite a bit of tweaking before being ready for integration into and AGC feedback loop.
+  - I'm pretty pleased this thing works at all, even if it's going to need quite a bit of tweaking before being ready for integration into an AGC feedback loop.
 - The upper cutoff frequency is quite good
   - The upper bandwidth far exceed my expectations, easily clearing the 1Mhz desired.
 
