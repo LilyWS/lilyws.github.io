@@ -1,6 +1,6 @@
 +++
 draft = false
-title = 'About'
+title = ''
 +++
 My name's Lily, as you might have guessed by now. I'm pursuing my undergrad in electrical engineering at UNCC, and I like doing stuff with electronics in my free time. Right now I'm most interested in analog IC design. 
 
