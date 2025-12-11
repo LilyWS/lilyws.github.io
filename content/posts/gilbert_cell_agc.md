@@ -60,7 +60,7 @@ This is where the bottom differential pair comes in: By placing the top differen
 
 {{< figure src="/images/GCAGCW/SplitVSJoinedDiffPair.png" width="500" align="center" caption="Joined vs split tail differential pair.">}}
 
-You may notice that sometimes the bottom 'tail' of the differential pairs are split or joined throughout this point. They're functionally equivalent to each other, although they respond differently to mismatch between components. The split style responds better to differential pair transistor mismatch which is why I've opted for it in the design. 
+You may notice that sometimes the bottom 'tail' of the differential pairs are split or joined throughout this post. They're functionally equivalent to each other, although they respond differently to mismatch between components. The split style responds better to differential pair transistor mismatch which is why I've opted for it in the design. 
 
 ## Biasing the Gilbert Cell
 
