@@ -2,9 +2,14 @@ baseURL = "https://lilysweb.site/"
 languageCode = "en-us"
 title = "lily's web.site"
 theme = "PaperMod"
+mainSections = ["posts", "blog"]
+[params]
+ShowFullTextinRSS = true  
+[outputs]
+  home = ["HTML", "RSS"]
 [params.homeInfoParams]
     Title = "Hello!"
-    Content = "My name's Lily. This is my site where I write about whatever I've been up to lately. Which is mostly circuits."
+    Content = "My name's Lily. This is my site where I write about whatever I've been up to lately. Which is mostly circuits. You can get notified about posts here via [RSS](https://lilysweb.site/index.xml)"
 [params.assets]
 favicon = "/favicon.ico"
 favicon16x16 = "/favicon-16x16.png"
